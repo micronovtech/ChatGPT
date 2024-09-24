@@ -265,7 +265,7 @@ const useSettings = createWithEqualityFn<SettingsType>()(
         sendChatHistory: false,
         systemMessage: "",
         useSystemMessageForAllChats: false,
-        selectedModal: "gpt-3.5-turbo",
+        selectedModal: "gpt-4o-mini",
         dalleImageSize: { "dall-e-2": "256x256", "dall-e-3": "1024x1024" },
       },
       modalsList: modalsList,
