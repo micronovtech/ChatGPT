@@ -82,15 +82,7 @@ function App() {
                     aria-hidden="true"
                   ></i>
                 </span>
-                By
-                <a
-                  href="https://www.prasadbro.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="ml-2 underline"
-                >
-                  Prasadbro
-                </a>
+
               </footer>
             </div>
           </div>
