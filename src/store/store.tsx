@@ -16,6 +16,7 @@ const modalsList = [
   "gpt-4-0613",
   "gpt-4-0314",
   "gpt-4-1106-preview",
+  "gpt-4o",
   "gpt-4o-mini",
   "dall-e-3",
   "dall-e-2",
