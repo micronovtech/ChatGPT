@@ -15,6 +15,7 @@ export async function fetchResults(
       method: `POST`,
       signal: signal,
       headers: {
+        "OpenAI-Beta": `assistants=v2`
         "content-type": `application/json`,
         accept: `text/event-stream`,
         Authorization: `Bearer ${localStorage.getItem("apikey")}`,
